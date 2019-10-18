@@ -1,3 +1,7 @@
+# [On hold]
+I'm not presently using this startpage due to Firefox's inability to change the cursor focus upon 
+opening a new tab with a third party extension, as well as poor performance in slow internet.
+
 # startpage
 Personal internet browser home and new tab page.
 
